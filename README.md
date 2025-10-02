@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="assets/banner.png" alt="banner" style="width:100%; max-height:300px; object-fit:cover;" />
 
-<!--
-**Fef-1/Fef-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro -->
+### Hi, I am Felix ERIC 👋  
+I am a Data Analyst freelance — SQL • Python • Power BI • Tableau • Looker  
+I help organizations transform their data into actionable decisions while embedding a sustainable vision: using data as a driver of both performance and durability.
 
-Here are some ideas to get you started:
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixeric/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:felix-eric@hotmail.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Skills
+- SQL (Postgres / BigQuery)  
+- Python (pandas, numpy, scikit-learn)  
+- Power BI / Tableau  / Looker
+- DEA & storytelling
